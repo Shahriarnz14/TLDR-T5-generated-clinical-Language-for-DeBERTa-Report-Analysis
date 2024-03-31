@@ -8,4 +8,3 @@ Authors: Spandan Das* (spandand [at symbol] cmu.edu), Vinay Samuel* (vsamuel [at
 This code accompanies the SemEval 2024 2023 paper:
 
 > Spandan Das, Vinay Samuel, Shahriar Noroozizadeh. "TLDR at SemEval-2024 Task 2: T5-generated clinical-Language summaries for DeBERTa Report Analysis".
->
