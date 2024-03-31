@@ -5,6 +5,6 @@ SemEval 2024 Task 2 - Safe Biomedical Natural Language Inference for Clinical Tr
 Authors: Spandan Das* (spandand [at symbol] cmu.edu), Vinay Samuel* (vsamuel [at symbol] andrew.cmu.edu), Shahriar Noroozizadeh* (snoroozi [at symbol] cs.cmu.edu)
 *All authors contributed equally to this work.
 
-This code accompanies the SemEval 2024 2023 paper:
+This code accompanies the SemEval 2024 paper:
 
 > Spandan Das, Vinay Samuel, Shahriar Noroozizadeh. "TLDR at SemEval-2024 Task 2: T5-generated clinical-Language summaries for DeBERTa Report Analysis".
